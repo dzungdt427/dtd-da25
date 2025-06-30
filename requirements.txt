@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+langdetect
+googletrans==4.0.0-rc1
+underthesea
+wordcloud
